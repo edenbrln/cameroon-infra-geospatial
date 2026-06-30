@@ -53,7 +53,7 @@ All sources are open and freely accessible.
 
 `Python` (geopandas, rasterio, scikit-learn) · `Google Earth Engine` · `Tableau Public`
 
-## Author
+## About
 
 Dongju — M.Sc. Data Science candidate, background in international development (incl. UNFPA)
 
