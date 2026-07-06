@@ -32,7 +32,7 @@ All sources are open and freely accessible.
 
 1. **Spatial preprocessing** — extract and standardize district boundaries; compute zonal statistics (nighttime light, road density, water proximity) per district
 2. **Dimensionality reduction (PCA)** — combine electricity, water, and road indicators into a composite infrastructure index
-3. **Clustering (K-Means)** — group districts into infrastructure typologies (e.g., "broadly underserved," "partial access," "relatively well-served")
+3. **Clustering (K-Means)** — group districts into infrastructure typologies (e.g., "well-served", "moderate", "underserved")
 4. **Visualization** — interactive dashboard (Tableau Public)
 
 ## Repository Structure
