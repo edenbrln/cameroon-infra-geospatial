@@ -6,7 +6,7 @@ Satellite- and open-data-based analysis of residential infrastructure quality ga
 
 Rapid, unplanned urbanization in Cameroon's two largest cities has produced uneven infrastructure access at the district level. National statistics report electricity and water access at the country level only, masking significant intra-city disparities. This project combines satellite imagery and open geospatial data to estimate infrastructure access at a finer spatial resolution (13 districts / *arrondissements*) and identify distinct district typologies based on multidimensional infrastructure profiles.
 
-**Status:** In progress | Mid-project presentation: University of Orléans DeepLearn 2026, July 2026
+**Status:** In progress | Mid-project presentation: University of Orléans DeepLearn Summer School, July 2026
 
 ## Study Area
 
