@@ -22,9 +22,7 @@ Rapid, unplanned urbanization in Cameroon's two largest cities has produced unev
 | Electricity proxy | NASA VIIRS-DNB (via Google Earth Engine) | Nighttime light intensity as a proxy for electrification |
 | Roads | OpenStreetMap (via UN OCHA HDX) | Road network density, surface type |
 | Water | OpenStreetMap (via UN OCHA HDX) | Water point and waterway proximity |
-| Population | WorldPop | Population-weighted indicators |
 | Administrative boundaries | UN OCHA HDX (COD-AB, sourced from Institut National de Cartographie) | District-level boundaries |
-| Household survey | Cameroon DHS 2018 | Contextual validation |
 
 All sources are open and freely accessible.
 
