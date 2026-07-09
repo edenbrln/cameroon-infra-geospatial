@@ -41,8 +41,7 @@ All sources are open and freely accessible.
 │   └── processed/    # Cleaned, analysis-ready datasets
 ├── notebooks/        # Analysis notebooks
 ├── scripts/          # Reusable processing scripts
-├── outputs/
-│   └── figures/      # Maps and charts
+├── outputs/          # Dashboards, maps and charts
 └── docs/
     └── project_plan.md
 ```
