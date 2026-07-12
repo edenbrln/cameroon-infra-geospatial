@@ -52,7 +52,7 @@ All sources are open and freely accessible.
 
 ## About
 
-Dongju — M.Sc. Data Science candidate, background in international development (incl. UNFPA)
+Dongju Park — M.Sc. Data Science candidate, background in international development (incl. UNFPA)
 
 ---
 *This project is part of an ongoing portfolio combining geospatial data science with international development applications.*
